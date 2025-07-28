@@ -1,0 +1,1 @@
+select First_Name,GPA from student_info where GPA=(select max(GPA) from student_info);

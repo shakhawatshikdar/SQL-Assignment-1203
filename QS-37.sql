@@ -1,0 +1,1 @@
+select Major,max(GPA) from student_info group by Major;

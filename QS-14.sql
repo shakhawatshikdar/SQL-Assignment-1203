@@ -1,0 +1,1 @@
+select Major,count(*) from student.student_info where Major='Computer Science';

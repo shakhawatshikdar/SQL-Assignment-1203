@@ -1,0 +1,1 @@
+select Major,count(Major) from student_info group by Major;

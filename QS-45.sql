@@ -1,0 +1,1 @@
+select * from student_info where GPA=(select GPA from student_info where Student_ID =201);

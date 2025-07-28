@@ -1,0 +1,1 @@
+select Major,avg(GPA) from student_info group by Major;

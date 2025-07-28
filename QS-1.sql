@@ -1,0 +1,1 @@
+select upper(First_Name) as Student_Name from student.student_info;

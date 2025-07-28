@@ -1,0 +1,2 @@
+select curdate();
+select now();

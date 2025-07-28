@@ -1,0 +1,1 @@
+select concat(First_Name,'',Last_Name) as Full_Name from student.student_info where GPA between 8.5 and 9.5;

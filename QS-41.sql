@@ -1,0 +1,1 @@
+update student_info set GPA = 7.5 where Major ='Computer Science';

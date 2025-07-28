@@ -1,0 +1,1 @@
+select * from student_info order by GPA limit 4,1;

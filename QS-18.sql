@@ -1,0 +1,1 @@
+select * from student.student_info where Student_ID %2 != 0;

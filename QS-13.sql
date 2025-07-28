@@ -1,0 +1,1 @@
+select * from student.student_info where GPA between 9.00 and 9.99;

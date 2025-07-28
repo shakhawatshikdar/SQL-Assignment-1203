@@ -1,0 +1,1 @@
+select Major,count(Major) from student.student_info group by Major order by count(Major) desc;
